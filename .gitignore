@@ -1,3 +1,16 @@
+# CNNファイル
 CNN/Pytorch/best_model.pth
 CNN/Pytorch/cifar_net.pth
 CNN/Pytorch/data/
+
+# Puruninng
+Pruning/cifar-10/cifar-10-batches-py/
+Pruning/data/
+Pruning/cifar-10/cifar-10-python.tar.gz
+Pruning/pruned_model.pth
+
+# Quantization
+Quantization/photo_quantization/
+Quantization/quantization/
+Quantization/.DS_Store
+Quantization/._.DS_Store
